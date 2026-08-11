@@ -1,0 +1,3 @@
+Strategy,Trades,Win Rate %,Average Return %,Total Return %
+Random Forest ML,17,41.17647058823529,-0.9513696295485966,-16.17328370232614
+ML High Confidence >=70%,4,75.0,0.10404068246558093,0.4161627298623237
