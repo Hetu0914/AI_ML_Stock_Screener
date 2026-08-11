@@ -49,3 +49,7 @@ Probability Prediction
 BUY / WATCH / NO TRADE
      ↓
 Backtesting & Performance Analysis
+
+## 🚀 Live Dashboard
+
+[Open AI/ML Stock Screener Dashboard](https://stock-screener-hetvi.streamlit.app/)
