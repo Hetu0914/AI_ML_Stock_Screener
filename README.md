@@ -49,3 +49,11 @@ Probability Prediction
 BUY / WATCH / NO TRADE
      ↓
 Backtesting & Performance Analysis
+Screenshot (590).png
+Screenshot (591).png
+Screenshot (592).png
+Screenshot (593).png
+Screenshot (594).png
+Screenshot (595).png
+Screenshot (596).png
+
